@@ -1,0 +1,36 @@
+*{
+    font-size: 35px;
+}
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: url("https://images.heb.com/is/image/HEBGrocery/001795022-1");
+    background-repeat: no-repeat;
+    background-size:105% 100%;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding-top: 100px;
+}
+
+h1{
+    color: goldenrod;
+}
+
+#message-el{
+    font-style: italic;
+}
+
+button{
+    color: #016f32;
+    width: 250px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 18px;
+    margin-bottom: 4px;
+    margin-top: 4px;
+    cursor: pointer;
+}
